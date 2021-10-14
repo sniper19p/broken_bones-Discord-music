@@ -6,3 +6,7 @@ Before you install, you will need..
 
 - Discord.js v13+
 
+What this package does
+
+This package will make it easier to use the new discord.js v13 music.
+
