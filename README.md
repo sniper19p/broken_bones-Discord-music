@@ -1,7 +1,9 @@
-Hello and welcome to my package as of right now i am still working on it.
+__Hello and welcome to my npm package as of right now i am still working on it to make sure everything works right! __
+
+If you find any errors please make an new issue [here](https://github.com/sniper19p/broken_bones-Discord-music/issues)
 
 Before you install, you will need..
-
+--------------------------------------
 - Node.js
 
 - Discord.js v13+
@@ -10,5 +12,5 @@ What this package does
 
 This package will make it easier to use the new discord.js v13 music.
 
-Documentaion will be coming out soon please be patient as I work on this 
+You can find the documentaion in my github linked [here](https://github.com/sniper19p/broken_bones-Discord-music/tree/Docs)
 
