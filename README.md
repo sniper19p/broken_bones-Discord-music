@@ -13,9 +13,10 @@ This package will make it easier to use the new discord.js v13 music.
 🔎 Functions
 
 Here are the functions you can use!
-
+-----------------------------------------------------------------------
 Music:
 These are used to interact with the music
+
 .play() - Plays the given music in the given channel.
 
 .stop() - Stops the music whenever it is playing.
@@ -35,9 +36,9 @@ These are used to interact with the music
 .getQueue() - Returns a Array of queued songs.
 
 .removeQueue() - Removes the given queue song number from the queue.
-
+----------------------------------------------------------------------------------------
 Checks:
-These are used 
+These are used to check if the bot is doing something at the moment
 .isConnected() - Checks whenever the bot is connected to a VC.
 .isPaused() - Checks whenever the playing song is paused.
 .isResumed() - Checks whenever the bot is playing a song.
