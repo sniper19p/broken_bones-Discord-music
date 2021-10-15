@@ -2,7 +2,9 @@ Welcome to the Checks
 -----------------------
 
 The checks all return as a boolean value
-Example from .isConnected()
+
+--Example from .isConnected()--
+
 __
 * 'true' means that it is connected to a VoiceChannel.
 
