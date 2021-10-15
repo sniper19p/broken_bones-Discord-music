@@ -21,7 +21,6 @@ ___
 **Update 1.0.6**
 Added required Node.js to package.json
 ___
-___
 **Update 1.0.5**
 Added keywords to package.json
 
