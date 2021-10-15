@@ -12,11 +12,11 @@ This package will make it easier to use the new discord.js v13 music.
 
 🔎 Functions
 
-Here are the functions you can use!
+Here are the functions you can use! 
+Please read them carefully!
 
 Music
 -----------------------------------------------------------------------
-These are used to interact with the music
 
 .play() - Plays the given music in the given channel.
 
@@ -40,7 +40,6 @@ These are used to interact with the music
 
 Checks
 ----------------------------------------------------------------------------------------
-These are used to check if the bot is doing something at the moment
 
 .isConnected() - Checks whenever the bot is connected to a VC.
 
@@ -53,6 +52,7 @@ These are used to check if the bot is doing something at the moment
 
 Events
 ----------------------------------------------------------------------------------------
+
 playSong - Runs whenever a new song started playing.
 
 addSong - Runs whenever a song has been added to the queue.
