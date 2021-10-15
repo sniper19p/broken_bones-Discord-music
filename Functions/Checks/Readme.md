@@ -7,4 +7,5 @@ __
 * 'true' means that it is connected to a VoiceChannel.
 
 * 'false' means that it isn't connected to any VoiceChannel.
+
 __
