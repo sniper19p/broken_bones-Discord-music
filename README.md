@@ -41,16 +41,26 @@ These are used to interact with the music
 Checks
 ----------------------------------------------------------------------------------------
 These are used to check if the bot is doing something at the moment
+
 .isConnected() - Checks whenever the bot is connected to a VC.
+
 .isPaused() - Checks whenever the playing song is paused.
+
 .isResumed() - Checks whenever the bot is playing a song.
+
 .isRepeated() - Checks whenever the playing song is on repeat.
+
 
 Events
 ----------------------------------------------------------------------------------------
 playSong - Runs whenever a new song started playing.
+
 addSong - Runs whenever a song has been added to the queue.
+
 playList - Runs whenever a new song of a playlist started playing.
+
 addList - Runs whenever a playlist has been added to the queue.
+
 finish - Runs whenever all the queued songs are played.
+
 
