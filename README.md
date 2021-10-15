@@ -10,3 +10,5 @@ What this package does
 
 This package will make it easier to use the new discord.js v13 music.
 
+Documentaion will be coming out soon please be patient as I work on this 
+
