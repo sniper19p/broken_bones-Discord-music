@@ -17,14 +17,23 @@ Here are the functions you can use!
 Music:
 These are used to interact with the music
 .play() - Plays the given music in the given channel.
+
 .stop() - Stops the music whenever it is playing.
+
 .skip() - Skips the current playing song.
+
 .pause() - Pauses the current playing song.
+
 .resume() - Resumes the playing song whenever it is paused.
+
 .repeat() - Repeats the playing song forever, until it is turned off.
+
 .volume() - Changes the music volume.
+
 .jump() - Jumps to a the given queue number song.
+
 .getQueue() - Returns a Array of queued songs.
+
 .removeQueue() - Removes the given queue song number from the queue.
 
 Checks:
