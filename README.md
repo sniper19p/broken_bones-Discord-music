@@ -13,6 +13,7 @@ This package will make it easier to use the new discord.js v13 music.
 🔎 Functions
 
 Here are the functions you can use!
+
 Music
 -----------------------------------------------------------------------
 These are used to interact with the music
