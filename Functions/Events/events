@@ -1,11 +1,11 @@
 
 const { Client, Intents } = require('discord.js');
-const music = require('@koenie06/discord.js-music');
+const music = require('@broken_bones/discord-music');
 const events = music.event;
 
 events.on('playSong', async (channel, songInfo, requester) => {
 
-    /* See all the 'songInfo' options by logging it.. */
+
 
     channel.send({
         content: `Started playing the song [${songInfo.title}](${songInfo.url}) by \`${songInfo.author}\`.
@@ -16,7 +16,7 @@ events.on('playSong', async (channel, songInfo, requester) => {
 
 events.on('addSong', async (channel, songInfo, requester) => {
 
-    /* See all the 'songInfo' options by logging it.. */
+
 
     channel.send({
         content: `Added the song [${songInfo.title}](${songInfo.url}) by \`${songInfo.author}\` to the queue.
@@ -27,7 +27,7 @@ events.on('addSong', async (channel, songInfo, requester) => {
 
 events.on('playList', async (channel, playlist, songInfo, requester) => {
 
-    /* See all the 'songInfo' and 'playlist' options by logging it.. */
+
 
     channel.send({
         content: `Started playing the song [${songInfo.title}](${songInfo.url}) by \`${songInfo.author}\` of the playlist ${playlist.title}.
@@ -38,7 +38,7 @@ events.on('playList', async (channel, playlist, songInfo, requester) => {
 
 events.on('addList', async (channel, playlist, requester) => {
 
-    /* See all the 'playlist' options by logging it.. */
+
 
     channel.send({
         content: `Added the playlist [${playlist.title}](${playlist.url}) with ${playlist.videos.length} amount of videos to the queue.
@@ -55,5 +55,5 @@ events.on('finish', async (channel) => {
 
 });
 
-/* Log your client in with your token. */
-client.login('Client token from https://discord.com/developers/applications');
+
+client.login('Your bots token');
