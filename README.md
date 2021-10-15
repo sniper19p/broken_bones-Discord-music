@@ -1,4 +1,4 @@
-__Hello and welcome to my npm package as of right now i am still working on it to make sure everything works right! __
+__Hello and welcome to my npm package as of right now i am still working on it to make sure everything works right!__
 
 If you find any errors please make an new issue [here](https://github.com/sniper19p/broken_bones-Discord-music/issues)
 
