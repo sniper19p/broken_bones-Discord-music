@@ -17,11 +17,13 @@ You can find the documentaion in my github linked [here](https://github.com/snip
 
 Most recent updates
 --------------------
-
-__Update 1.0.6__
+___
+**Update 1.0.6**
 Added required Node.js to package.json
-
-__Update 1.0.5__
+___
+___
+**Update 1.0.5**
 Added keywords to package.json
 
 Redid readme.md with docmentation(still in the works 1.0.8 will have the docs finished!
+___
