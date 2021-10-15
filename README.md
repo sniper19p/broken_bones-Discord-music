@@ -19,6 +19,9 @@ Most recent updates
 --------------------
 
 __Update 1.0.6__
-
 Added required Node.js to package.json
 
+__Update 1.0.5__
+Added keywords to package.json
+
+Redid readme.md with docmentation(still in the works 1.0.8 will have the docs finished!
