@@ -19,6 +19,15 @@ You can find the documentaion in my github linked [here](https://github.com/snip
 Most recent updates
 --------------------
 ___
+**Update 1.0.15 and 1.0.16**
+Sorry about the passed two days I did not test it fully to make sure that the code worked I have now gone back and fixed the code. I works now so make sure to have your code updated to 1.0.16 for this. Sorry for the inconvenience. This time I did test it  
+
+___
+**Update 1.0.14**
+Updating to fix error 
+___
+
+___
 **Update 1.0.8**
 Documentaion is done you can find it [here](https://github.com/sniper19p/broken_bones-Discord-music/tree/Docs) 
 ___
@@ -36,4 +45,3 @@ Added keywords to package.json
 
 Redid readme.md with docmentation(still in the works 1.0.8 will have the docs finished!
 ___
-
