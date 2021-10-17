@@ -15,6 +15,10 @@ This package will make it easier to use the new discord.js v13 music.
 
 You can find the documentaion in my github linked [here](https://github.com/sniper19p/broken_bones-Discord-music/tree/Docs)
 
+Here is how you find it
+![Screen Shot 2021-10-17 at 2 36 08 PM](https://user-images.githubusercontent.com/67769442/137642346-ad395829-70ca-4452-b729-2b4013f6722f.png)
+
+
 
 Most recent updates
 --------------------
