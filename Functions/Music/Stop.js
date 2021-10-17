@@ -9,5 +9,5 @@ client.on('interactionCreate', async (interaction) => {
     };
 });
 
-/* Log your client in with your token. */
-client.login('Client token from https://discord.com/developers/applications');
+
+client.login('Your bots token');
