@@ -1,4 +1,4 @@
-__When I'm fully done with docs there will be an example bot here__
+When I'm fully done with docs there will be an example bot here
 ------------------------------------------------------------------
 
 Hello and welcome to my npm package as of right now I am still working on it to make sure everything works right!
