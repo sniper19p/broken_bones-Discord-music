@@ -18,3 +18,4 @@ client.on('interactionCreate', async (interaction) => {
         };
     };
 });
+client.login('Your bots token');
