@@ -3,7 +3,7 @@ Hello and welcome to my npm package as of right now I am still working on it to 
 
 If you find any errors please make an new issue [here](https://github.com/sniper19p/broken_bones-Discord-music/issues)
 
-Before you install, you will need..
+Before you install, you will need...
 --------------------------------------
 - Node.js v16.6+
 
