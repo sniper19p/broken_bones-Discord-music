@@ -19,7 +19,13 @@ You can find the documentaion in my github linked [here](https://github.com/snip
 Most recent updates
 --------------------
 ___
-**Update 1.1.1** Update some code
+**Update 1.1.3** Fixed error from last update
+___
+**Update 1.1.2** Fixed audio disconecting after playing for a while
+
+After playing for about 10 mins the bot would disconnect from the vc i have fixed this error 
+___
+**Update 1.1.1** Added some code
 
 Added self selfDeaf 
 In the future if requested I will make it so that people can make change it without going into the package
